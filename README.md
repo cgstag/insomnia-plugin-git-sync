@@ -1,3 +1,7 @@
+## Work in Progress
+
+This fork attempts to work with specific branches instead of relying on the main branch
+
 # Git sync for Insomnia
 
 This plugin can sync service calls of a project to git and pull from it.
